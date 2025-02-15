@@ -50,11 +50,5 @@ The interactive dashboard can be accessed at: https://public.tableau.com/app/pro
 ## 🤝 Contributing
 If you'd like to contribute, feel free to fork this repository and submit pull requests with improvements or additional insights.
 
-## 📞 Contact
-For any queries or collaboration opportunities, feel free to connect:
-- **Email:** your_email@example.com
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
----
 **📢 Disclaimer:** This project is for educational and analytical purposes only. The data used might not be real-time or completely accurate.
 
